@@ -1,7 +1,6 @@
 import React from 'react'
 import'./Hero.css'
 import AnchorLink from 'react-anchor-link-smooth-scroll'
-import mittu from "../../assets/Mittu-photo.jpeg"
 const Hero = () => {
   return (
     <div id='home' className='hero'>
